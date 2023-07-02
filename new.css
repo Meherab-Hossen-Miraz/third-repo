@@ -1,0 +1,59 @@
+div
+{
+    background-color: aqua;border: 6px solid rgb(13, 22, 18);margin: 20px;border-radius: 10px;
+}
+.a
+{
+background-color: darkturquoise;
+color: rgb(7, 2, 4);
+text-align: center;
+font-size: 30px;
+width: 1110px;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.b
+{
+  background-color: rgba(118, 200, 77, 0.806);
+  color: rgb(8, 15, 225);
+  text-align: center;
+}
+.c
+{
+ background-color: rgb(242, 49, 81);
+color: white;
+text-align: center;
+font-size: 30px;
+width: 1110px;
+}
+
+.d
+{
+    background-color:rgb(236, 247, 22);
+    color: rgb(33, 24, 213);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+.e
+{
+  background-color: rgb(34, 235, 125);
+  color: brown;
+  text-align: center;
+  font-size: 35px;width: 1110px;
+}
+.f
+{
+  background-color:rgb(70, 31, 199);
+   color: rgb(229, 67, 9);
+}
+.g
+{
+  background-color: rgb(246, 16, 31);
+  color: rgb(10, 82, 50);
+  text-align: center;
+  font-size: 28px;width: 1110px;
+}
+.h
+{
+  background-color:rgb(32, 239, 235);
+   color: rgb(133, 18, 42);
+}
